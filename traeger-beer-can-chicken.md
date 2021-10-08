@@ -1,12 +1,13 @@
-title: traeger beer can chicken
-url:   https://www.traeger.com/recipes/beer-can-chicken
+# traeger beer can chicken
+
+url: [https://www.traeger.com/recipes/beer-can-chicken](https://www.traeger.com/recipes/beer-can-chicken)
+
 tags:  chicken,beer,smoke,traeger
 
 serves: depends on the chicken
 
-ingredients:
+## ingredients:
 
-steps:
+## steps:
 
-notes:
-
+##notes:
