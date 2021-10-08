@@ -1,23 +1,25 @@
-title: smoked mac n cheese
-url:   youtube -> howtobbqright
+# smoked mac n cheese
+
+url: [https://howtobbqright.com/2015/06/05/smoked-mac-cheese-recipe/](https://howtobbqright.com/2015/06/05/smoked-mac-cheese-recipe/)
+
 tags:  cheese,smoke
 
 serves: alot
 
-ingredients:
-- 1 lb extra sharp cheddar, shredded
-- 0.5 lb monterey jack, shredded
-- 16 oz elbow macaroni
-- 1 cup sour cream
-- 2 cups heavy cream
-- 2 tbsp butter
-- 1 cup mayo
-- 2 tbsp flour
-- 0.5 cup panko breadcrumbs
-- 2 tbsp hot sauce
-- 1 pack thin-sliced bacon (optional, see notes)
+## ingredients:
+- [ ] 1 lb extra sharp cheddar, shredded
+- [ ] 0.5 lb monterey jack, shredded
+- [ ] 16 oz elbow macaroni
+- [ ] 1 cup sour cream
+- [ ] 2 cups heavy cream
+- [ ] 2 tbsp butter
+- [ ] 1 cup mayo
+- [ ] 2 tbsp flour
+- [ ] 0.5 cup panko breadcrumbs
+- [ ] 2 tbsp hot sauce
+- [ ] 1 pack thin-sliced bacon (optional, see notes)
 
-steps:
+## steps:
 1.  cook macaroni al dente (see box).  drain and set aside.
 2.  preheat smoker or oven to 350.
 3.  melt butter in a large non-stick pot over medium heat.
@@ -31,7 +33,6 @@ steps:
 11. sprinkle panko breadcrumbs on top to form a crust.
 12. place in smoker or oven and cook for 45-60 mins.
 
-notes:
+## notes:
 - you can cook a pack of bacon and then chop it up into fine pieces, then combined with the panko breadcrumbs.
 - shredding a block of cheese by hand seems to produce better results than buying pre-shredded, but either will work.
-
