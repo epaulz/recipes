@@ -1,5 +1,5 @@
 # 15-minute garlic butter chicken w/ parmesan cauliflower rice
-url:   https://www.eatwell101.com/garlic-butter-chicken-with-parmesan-cauliflower-rice
+url:   [https://www.eatwell101.com/garlic-butter-chicken-with-parmesan-cauliflower-rice](https://www.eatwell101.com/garlic-butter-chicken-with-parmesan-cauliflower-rice)
 
 tags:  chicken,cauliflower,keto
 
@@ -37,4 +37,3 @@ serves: 4
 14. serve with fresh pepper, red pepper flakes, and/or more parmesan.
 
 ## notes:
-
