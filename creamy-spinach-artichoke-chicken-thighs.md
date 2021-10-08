@@ -1,39 +1,34 @@
-# 15-minute garlic butter chicken w/ parmesan cauliflower rice
-url:   [https://www.eatwell101.com/garlic-butter-chicken-with-parmesan-cauliflower-rice](https://www.eatwell101.com/garlic-butter-chicken-with-parmesan-cauliflower-rice)
+# creamy spinach artichoke chicken thighs
+url: [https://cafedelites.com/creamy-spinach-artichoke-chicken-thighs/](https://cafedelites.com/creamy-spinach-artichoke-chicken-thighs/)
 
 tags:  chicken,cauliflower,keto
 
-serves: 4
+serves: 6
 
 ## ingredients:
-- [ ] 4 chicken cutlets (sub 2 large breasts cut in half or flattened)
-- [ ] 0.5 cup fresh parmesan (plus a little extra to sprinkle)
+- [ ] 6 skinless chicken thighs (bone-in or boneless)
+- [ ] 2 tbsp olive oil
+- [ ] 1 tbsp garlic, minced
+- [ ] 8 oz cream cheese
+- [ ] 1 cup chicken stock
+- [ ] 14 oz canned artichoke hearts in brine, drained and roughly chopped
+- [ ] 4 cups baby spinach leaves
+- [ ] 0.25 cup parmesan cheese
 - [ ] salt and pepper
-- [ ] 4 cloves garlic, minced
-- [ ] 1 tsp paprika
-- [ ] 1 tsp italian seasoning
-- [ ] 4 tbsp unsalted butter
-- [ ] 1 head cauliflower, riced
-- [ ] 0.5 cup white onion, chopped
-- [ ] 2 tbsp vegetable stock
-- [ ] juice of 1 lemon
-- [ ] red pepper flakes
-- [ ] 0.25 cup fresh parsley, chopped
 
 ## steps:
-1.  in a shallow plate, combine parmesan cheese, half the garlic, paprika, and italian seasoning.
-2.  season chicken with salt/pepper, dredge in parmesan mixture, and set aside.
-3.  melt 2 tbsp butter over medium-high in a large non-stick skillet.
-4.  cook chicken until golden on each side and cooked through (~3-4 mins per side).
-5.  transfer chicken to a plate.
-6.  in same skillet, melt 2 tbsp butter.
-7.  fry remaining garlic & onion until fragrant (~1-2 mins).
-8.  add riced cauliflower to skillet and cook or 1 min, stirring regularly until evenly coated.
-9.  stir in vegetable stock and half the parsley.
-10. cook for another minute, then sprinkle in some extra parmesan.
-11. taste and adjust seasoning if needed.
-12. stir in remaining parsley.
-13. return chicken to pan for a minute or two to reheat.
-14. serve with fresh pepper, red pepper flakes, and/or more parmesan.
+1.  preheat oven to 400.
+2.  season chicken thighs with salt and pepper.
+3.  heat oil in a large oven-proof skillet over medium-high heat.
+4.  sear chicken for 3-4 mins per side until crisp and golden.
+5.  drain most excess fat, but leave a little for flavor.
+6.  saute garlic until fragrant, then add cream cheese.
+7.  stir and break up cream cheese until consistency is a bit runny.
+8.  pour in chicken stock and bring to a slow boil, then reduce heat to low.
+9.  cover and simmer until sauce thickens (~5 mins)
+10. stir in artichokes and spinach.
+11. simmer until spinach has just started to wilt, then add parmesan.
+12. taste and adjust seasoning if needed.
+13. place skillet in oven and bake 15-20 mins until chicken is cooked.
 
 ## notes:
